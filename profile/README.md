@@ -22,7 +22,6 @@ DevOps student at Chas Academy, Stockholm. Building a homelab to learn infrastru
 > Terraform provisions VMs, Ansible installs k3s, ArgoCD deploys everything from Git. 4 nodes, 3 control plane + 1 ARM64 worker. Longhorn for storage, SOPS for secrets, Cloudflare Tunnel for access.
 
 **Other projects:**
-- **[workout-tracker](https://github.com/Thomas-3145/workout-tracker)** — Web app for logging strength training
 - **[jobsearch](https://github.com/Thomas-3145/jobsearch-arbetsformedlingen-python)** — Python script that searches jobs via the Arbetsformedlingen API
 - **[python-project-creator](https://github.com/Thomas-3145/python-project-creator-bash)** — Bash tool for scaffolding Python projects
 
