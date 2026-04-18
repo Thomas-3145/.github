@@ -25,6 +25,7 @@ The goal is to land a job as a DevOps engineer, with a focus on infrastructure r
 > Terraform provisions VMs, Ansible installs k3s, ArgoCD deploys everything from Git. 4 nodes, 3 control plane + 1 ARM64 worker. Longhorn for storage, SOPS for secrets, Cloudflare Tunnel for access.
 
 **Other projects:**
+- **[ibindex-app](https://github.com/Thomas-3145/ibindex-app)** — Python/Streamlit app that fetches daily data on Swedish investment companies and suggests a portfolio allocation. Runs on my own k3s cluster, deployed via ArgoCD GitOps.
 - **[jobsearch](https://github.com/Thomas-3145/jobsearch-arbetsformedlingen-python)** — Python script that searches jobs via the Arbetsformedlingen API
 - **[python-project-creator](https://github.com/Thomas-3145/python-project-creator-bash)** — Bash tool for scaffolding Python projects
 
